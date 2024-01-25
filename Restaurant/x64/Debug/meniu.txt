@@ -1,0 +1,61 @@
+Fanta 20
+zahar 0
+portocale 0
+glucoza 0
+acid_citric 0
+alcool 0
+
+PepsiCola 20
+zahar 0
+lime 0
+glucoza 0
+acid_citric 0
+alcool 0
+
+ENDDRINKS !
+
+Pizza 1
+aluat 1
+mozarella 3
+piept_pui 1
+rosii 4
+busuioc 1
+masline 2
+porumb 1
+vegan 0
+
+Ciorba 1
+morcov 3
+ceapa 1
+telina 1
+ardei_gras 1
+rosii 4
+cartofi 4
+mazare 1
+lamaie 1
+vegan 1
+
+ENDFOOD !
+
+Clatite 1
+lapte 1
+oua 2 
+faina 1
+nutella 1
+banane 2
+smecherie 3
+are_zahar 1
+
+Chec_fructe_padure 1
+faina 1
+ovaz 1
+scortisoara 1
+lapte 1
+unt 1
+oua 3
+curmale 5
+banane 2
+afine 20
+are_zahar 0
+
+ENDDESERTS !
